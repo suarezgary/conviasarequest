@@ -1,0 +1,14 @@
+{
+  "name": "conviasarequest",
+  "version": "0.0.1",
+  "description": "Utility to check for avaliable seats \u001b[D\u001b[D\u001b[D\u001b[ilability of Conviasa Plane tickets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "conviasa"
+  ],
+  "author": "Gary Suarez",
+  "license": "ISC"
+}
