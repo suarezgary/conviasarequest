@@ -10,5 +10,8 @@
     "conviasa"
   ],
   "author": "Gary Suarez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.80.0"
+  }
 }
