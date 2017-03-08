@@ -12,6 +12,7 @@
   "author": "Gary Suarez",
   "license": "ISC",
   "dependencies": {
+    "casperjs": "^1.1.3",
     "request": "^2.80.0"
   }
 }
